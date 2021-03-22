@@ -1,12 +1,7 @@
-Machine Learning Notebooks
+Hands-on Fraud Detection with Deep Learning
 ==========================
 
-This project aims at teaching you the fundamentals of Machine Learning in
-python. It contains the example code and solutions to the exercises in the second edition of my O'Reilly book [Hands-on Machine Learning with Scikit-Learn, Keras and TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/):
-
-<img src="https://images-na.ssl-images-amazon.com/images/I/51tOhPQBmSL._SX379_BO1,204,203,200_.jpg" title="book" width="150" />
-
-**Note**: If you are looking for the first edition notebooks, check out [ageron/handson-ml](https://github.com/ageron/handson-ml).
+This project aims at teaching you the fundamentals of using Deep Learning techniques in fraud detection with PyTorch. It contains the example code and solutions to various fraud and anomaly detection problems. This project uses templates of the [version 2 of the book Hands-on Machine Learning with Scikit-Learn, Keras and TensorFlow](https://github.com/ageron/handson-ml2) 
 
 ## Quick Start
 
