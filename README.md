@@ -1,7 +1,7 @@
 Hands-on Fraud Detection with Deep Learning
 ==========================
 
-This project aims at teaching you the fundamentals of using Deep Learning techniques in fraud detection with PyTorch. It contains the example code and solutions to various fraud and anomaly detection problems. This project uses templates of the [version 2 of the book Hands-on Machine Learning with Scikit-Learn, Keras and TensorFlow](https://github.com/ageron/handson-ml2) 
+This project aims at teaching you the fundamentals of using Deep Learning techniques in fraud detection with PyTorch. It contains the example code and solutions to various fraud and anomaly detection problems. This project uses formats of the [version 2 of the book Hands-on Machine Learning with Scikit-Learn, Keras and TensorFlow](https://github.com/ageron/handson-ml2) 
 
 ## Quick Start
 
