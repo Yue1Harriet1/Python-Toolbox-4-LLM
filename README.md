@@ -20,8 +20,8 @@ Use any of the following services.
 
   * _Note_: Deepnote environments start up quickly, but they do not contain the latest Scikit-Learn and TensorFlow libraries, so you will need to run `!python3 -m pip install -U -r requirements.txt` before you import any library (or you must restart the runtime).
 
-* Or open it in [Colaboratory](https://colab.research.google.com/github/ageron/handson-ml2/blob/master/):
-<a href="https://colab.research.google.com/github/ageron/handson-ml2/blob/master/"><img src="https://colab.research.google.com/img/colab_favicon.ico" width="90" /></a>
+* Or open it in [Colaboratory](https://colab.research.google.com/github/Yue1Harriet1/Handson-Fraud-Detection-with-Deep-Learning-draft/blob/master/):
+<a href="https://colab.research.google.com/github/Yue1Harriet1/Handson-Fraud-Detection-with-Deep-Learning-draft/blob/master/"><img src="https://colab.research.google.com/img/colab_favicon.ico" width="90" /></a>
 
   * _Note_: Colab environments only contain the notebooks you open, they do not clone the rest of the project, so you need to do it yourself by running `!git clone https://github.com/ageron/handson-ml2` and `!mv handson-ml2/* /content` to have access to other files in this project (such as datasets and images). Moreover, Colab does not come with the latest libraries, so you need to run `!python3 -m pip install -U -r requirements.txt` then restart the environment (but do not reset it!). If you open multiple notebooks from this project, you only need to do this once (as long as you do not reset the runtimes).
 
